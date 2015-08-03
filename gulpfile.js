@@ -7,7 +7,7 @@ var rename = require('gulp-rename');
 var karma = require('karma').server;
 
 var _coverage = 'coverage/**/lcov.info';
-var _app = 'n4exceptioninterceptor.js';
+var _app = 'src/n4exceptioninterceptor.js';
 var _appMin = 'n4exceptioninterceptor.min.js';
 var _dist = 'dist';
 
