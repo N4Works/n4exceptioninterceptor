@@ -1,6 +1,6 @@
 {
   "name": "n4exceptioninterceptor",
-  "main": "n4exceptioninterceptor.js",
+  "main": "dist/n4exceptioninterceptor.js",
   "version": "0.0.1",
   "homepage": "https://github.com//n4exceptioninterceptor",
   "authors": ["N4Works <contato@n4works.com>"],
