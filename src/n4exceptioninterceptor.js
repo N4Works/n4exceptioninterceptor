@@ -1,7 +1,7 @@
-"use strict";
-
 ;
 (function(ng) {
+  "use strict";
+
   ng
     .module('n4ExceptionInterceptor', [])
     .config(['$httpProvider', function($httpProvider) {
@@ -33,4 +33,4 @@
         }];
       }
     ]);
-}(angular))
+}(angular));
